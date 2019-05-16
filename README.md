@@ -1,6 +1,6 @@
 # Uploading-Files-to-Google-Drive-Javascript-PHP-Google-Drive-API
 
-A very simple web application to upload files into google drive using PHP, JS and Google Drive API version 3.
+A very simple web application to upload files into google drive using PHP, JS and Google Drive API version 2.
 
 ## Getting Started
 
